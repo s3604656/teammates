@@ -1,1 +1,2 @@
 This is an entirely new file; we have now completed our weekly requirement of at least one commit.
+I have now added a line to test if this works for git synchronisation.
